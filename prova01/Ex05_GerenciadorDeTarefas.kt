@@ -1,3 +1,4 @@
+//Nome: João Vitor de Assis Martins e Eduardo Batista Barboza
 class GerenciadorDeTarefas {
     private val tarefas = mutableListOf<Tarefa>()
 
