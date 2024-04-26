@@ -1,3 +1,4 @@
+//Nome: João Vitor de Assis Martins e Eduardo Batista Barboza
 class Jogador {
     //Esta função receberCartas recebe uma lista de cartas como entrada e imprime as cartas recebidas.
 
