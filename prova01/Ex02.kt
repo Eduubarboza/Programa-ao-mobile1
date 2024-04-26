@@ -1,4 +1,4 @@
-
+//Nome: João Vitor de Assis Martins e Eduardo Batista Barboza
 /*Escreva um programa que dado um inteiro positivo
 calcule e imprima o valor da seguinte soma: F(n)=(1/n)+(2/n-1)+(3/n-2)+...+(n/1) */
 fun main() {
