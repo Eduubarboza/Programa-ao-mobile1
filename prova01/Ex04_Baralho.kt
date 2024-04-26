@@ -1,3 +1,4 @@
+//Nome: João Vitor de Assis Martins e Eduardo Batista Barboza
 class Baralho {
     private val naipes = arrayOf("♠️", "♥️", "♦️", "♣️")
     private val valores = arrayOf("A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K")
